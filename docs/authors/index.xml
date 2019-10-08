@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Authors | MOHAMMAD MAHMUDUL ALAM</title>
+    <link>https://mahmudulalam.github.io/authors/</link>
+      <atom:link href="https://mahmudulalam.github.io/authors/index.xml" rel="self" type="application/rss+xml" />
+    <description>Authors</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 21 Sep 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://mahmudulalam.github.io/img/icon-192.png</url>
+      <title>Authors</title>
+      <link>https://mahmudulalam.github.io/authors/</link>
+    </image>
+    
+    <item>
+      <title>Mohammad Mahmudul Alam</title>
+      <link>https://mahmudulalam.github.io/authors/mohammad-mahmudul-alam/</link>
+      <pubDate>Sat, 21 Sep 2019 00:00:00 +0000</pubDate>
+      <guid>https://mahmudulalam.github.io/authors/mohammad-mahmudul-alam/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>S. M. Mahbubur Rahman</title>
+      <link>https://mahmudulalam.github.io/authors/s.-m.-mahbubur-rahman/</link>
+      <pubDate>Sat, 21 Sep 2019 00:00:00 +0000</pubDate>
+      <guid>https://mahmudulalam.github.io/authors/s.-m.-mahbubur-rahman/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Mohammad Tariqul Islam</title>
+      <link>https://mahmudulalam.github.io/authors/mohammad-tariqul-islam/</link>
+      <pubDate>Fri, 20 Sep 2019 00:00:00 +0000</pubDate>
+      <guid>https://mahmudulalam.github.io/authors/mohammad-tariqul-islam/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://mahmudulalam.github.io/authors/admin/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://mahmudulalam.github.io/authors/admin/</guid>
+      <description>&lt;p&gt;Mohammad Mahmudul Alam has completed his BSc in Electrical and Electronic Engineering (EEE) from Bangladesh University of Engineering and Technology (BUET). His research interests include the theories and applications of machine learning in computer vision. During his undergraduate thesis, he conducted his research under the supervision of &lt;a href=&#34;http://mahbubur.buet.ac.bd&#34; target=&#34;_blank&#34;&gt;Dr. S. M. Mahbubur Rahman&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
