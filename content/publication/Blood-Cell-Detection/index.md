@@ -23,7 +23,7 @@ publication = "In Healthcare Technology Letters, IET, vol. 6, no. 4, pp. 103-108
 publication_short = "In IET"
 
 # Abstract and optional shortened version.
-abstract = "A machine learning approach of automatic identification and counting of all types of blood cells with K-nearest neighbor (KNN) and intersection over union (IOU) based verification."
+abstract = "A complete blood cell count is an important test in medical diagnosis to evaluate overall health condition. Traditionally blood cells are counted manually using haemocytometer along with other laboratory equipment’s and chemical compounds, which is a time-consuming and tedious task. In this work, the authors present a machine learning approach for automatic identification and counting of three types of blood cells using ‘you only look once’ (YOLO) object detection and classification algorithm. YOLO framework has been trained with a modified configuration BCCD Dataset of blood smear images to automatically identify and count red blood cells, white blood cells, and platelets. Moreover, this study with other convolutional neural network architectures considering architecture complexity, reported accuracy, and running time with this framework and compare the accuracy of the models for blood cells detection. They also tested the trained model on smear images from a different dataset and found that the learned models are generalised. Overall the computer-aided system of detection and counting enables us to count blood cells from smear images in less than a second, which is useful for practical applications."
 
 abstract_short = "A machine learning approach of automatic identification and counting of all types of blood cells with K-nearest neighbor (KNN) and intersection over union (IOU) based verification."
 
@@ -42,7 +42,6 @@ projects = []
 # Links (optional).
 url_pdf = "https://digital-library.theiet.org/deliver/fulltext/htl/6/4/HTL.2018.5098.pdf?itemId=/content/journals/10.1049/htl.2018.5098&mimeType=pdf&isFastTrackArticle="
 url_preprint = ""
-url_custom = [{name = "IETDigiLib", url = "http://ietdl.org/t/kmgztb"},]
 url_code = "https://github.com/MahmudulAlam/Automatic-Identification-and-Counting-of-Blood-Cells"
 url_dataset = "https://github.com/MahmudulAlam/Complete-Blood-Cell-Count-Dataset"
 url_project = ""
@@ -50,7 +49,7 @@ url_slides = ""
 url_video = ""
 url_poster = ""
 url_source = ""
-
+url_custom = [{name = "", url = ""}]
 
 # Custom links (optional).
 #   Uncomment line below to enable. For multiple links, use the form `[{...}, {...}, {...}]`.

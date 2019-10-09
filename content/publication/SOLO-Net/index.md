@@ -2,7 +2,7 @@
 title = "SOLO-Net: Interactive System for Virtual Environment by the Detection and Tracking of Fingertips"
 
 # Date first published.
-date = "2019-09-21"
+date = "2019-10-01"
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
 authors = ["Mohammad Mahmudul Alam", "S. M. Mahbubur Rahman"]

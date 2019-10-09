@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects | MOHAMMAD MAHMUDUL ALAM</title>
+    <link>https://mahmudulalam.github.io/project/</link>
+      <atom:link href="https://mahmudulalam.github.io/project/index.xml" rel="self" type="application/rss+xml" />
+    <description>Projects</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 23 Jan 2018 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://mahmudulalam.github.io/img/icon-192.png</url>
+      <title>Projects</title>
+      <link>https://mahmudulalam.github.io/project/</link>
+    </image>
+    
+    <item>
+      <title>Image Classification Using CNN</title>
+      <link>https://mahmudulalam.github.io/project/image-classification/</link>
+      <pubDate>Tue, 23 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://mahmudulalam.github.io/project/image-classification/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Probability Distribution Using GUI</title>
+      <link>https://mahmudulalam.github.io/project/probability-distribution/</link>
+      <pubDate>Wed, 12 Oct 2016 00:00:00 +0000</pubDate>
+      <guid>https://mahmudulalam.github.io/project/probability-distribution/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Complete Digital Communication System</title>
+      <link>https://mahmudulalam.github.io/project/digi-comm/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://mahmudulalam.github.io/project/digi-comm/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Heart Rate Tracking</title>
+      <link>https://mahmudulalam.github.io/project/heart-rate-tracking/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://mahmudulalam.github.io/project/heart-rate-tracking/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Microputer</title>
+      <link>https://mahmudulalam.github.io/project/microputer/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://mahmudulalam.github.io/project/microputer/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

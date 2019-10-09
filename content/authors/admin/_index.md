@@ -18,7 +18,7 @@ organizations:
   url: "https://www.buet.ac.bd/web/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include theory and application of machine learning in computer vision.
+bio: My research interests include theories and applications of machine learning in computer vision.
 
 interests:
 - Computer Vision

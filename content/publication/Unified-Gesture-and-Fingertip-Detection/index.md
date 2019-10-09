@@ -2,7 +2,7 @@
 title = "Unified Convolutional Neural Network Approach of Gesture Recognition and Fingertip Detection"
 
 # Date first published.
-date = "2019-09-20"
+date = "2019-09-30"
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
 authors = ["Mohammad Mahmudul Alam", "Mohammad Tariqul Islam", "S. M. Mahbubur Rahman"]
@@ -19,13 +19,13 @@ authors = ["Mohammad Mahmudul Alam", "Mohammad Tariqul Islam", "S. M. Mahbubur R
 publication_types = ["2"]
 
 # Publication name and optional abbreviated version.
-publication = "In Pattern Recognition, Elsevier, Science Publishers [Under Review]"
+publication = "In Pattern Recognition, Elsevier, Science Publishers [In Progress]"
 publication_short = "In Elsevier"
 
 # Abstract and optional shortened version.
-abstract = "A Unified Convolutional Neural Network Approach of Gesture Recognition and Fingertip Detection."
+abstract = "In human-computer interaction or in sign language interpretation, recognizing hand gestures and detecting fingertips become ubiquitous in computer vision research. In this paper, a unified convolutional neural network (CNN) approach for both hand gesture recognition and fingertip detection are introduced. The proposed algorithm uses a single network to predict finger class probabilities and fingertips positional output in one evaluation. Instead of directly regressing fingertips position from the fully connected layer of the CNN, we regress ensemble of fingertips position from the fully convolutional network (FCN) and subsequently take ensemble average to regress the final fingertips positional output. Since the whole recognition and detection pipeline use a single network, it is extremely fast, runs at 76 frames per second. Compared to state-of-the-art methods, the proposed method makes less localization error and less likely to predict false positive and false negative. It outperforms other fingertip detection approach including Heatmap-based and End2End frameworks."
 
-abstract_short = ""
+abstract_short = "A Unified Convolutional Neural Network Approach of Gesture Recognition and Fingertip Detection."
 
 # Featured image thumbnail (optional)
 image_preview = "featured.jpg"

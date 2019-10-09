@@ -2,7 +2,7 @@
 title = "Detection and Tracking of Fingertips for Geometric Transformation of Objects in Virtual Environment"
 
 # Date first published.
-date = "2019-07-10"
+date = "2019-07-06"
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
 authors = ["Mohammad Mahmudul Alam", "S. M. Mahbubur Rahman"]
@@ -23,9 +23,9 @@ publication = "In 16th ACS/IEEE International Conference on Computer Systems and
 publication_short = "In IEEE"
 
 # Abstract and optional shortened version.
-abstract = "Finger gesture-based interactive system for the virtual environment to transform the geometry of the virtual 3D object."
+abstract = "This paper presents an approach of two-stage convolutional neural network (CNN) for detection of fingertips so that an interaction of the fingertips with a 3D object in the virtual environment (VR) can be established. The first-stage CNN is assigned to detect and locate the hand. Subsequently, the detected hand is cropped, resized, and fed to the second stage CNN for predicting the coordinates of fingertips. Next, a tracker is employed to track the hand continuously so that the system becomes reliable in real-time performance. The VR environments are designed to demonstrate the performance of the fingertipbased interaction system. The proposed method focuses on the geometric transformation of a virtual 3D object by using the gesture of the thumb and index finger. In particular, the distance of the thumb and index fingertips is employed to scale a 3D object in virtual environment. To realize the system, a dataset of 1000 images, named, Thumb Index 1000 (TI1K) dataset, is developed including those variations that are commonly-seen in real-life thumb and index fingers. The system is evaluated with the aid of a number of participants and virtual objects that are distinctive in nature. The proposed approach attains the desired goal and performs in real-time seamlessly to facilitate the humancomputer interaction in the VR environment."
 
-abstract_short = ""
+abstract_short = "Finger gesture-based interactive system for the virtual environment to transform the geometry of the virtual 3D object."
 
 # Featured image thumbnail (optional)
 image_preview = "featured.jpg"
