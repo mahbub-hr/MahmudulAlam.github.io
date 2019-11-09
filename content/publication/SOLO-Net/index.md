@@ -1,8 +1,8 @@
 +++
-title = "SOLO-Net: Interactive System for Virtual Environment by the Detection and Tracking of Fingertips"
+title = "Affine Transformation of Virtual Object Using Unified CNN based Localization of Fingertips [In Progress]"
 
 # Date first published.
-date = "2019-10-01"
+date = "2019-11-01"
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
 authors = ["Mohammad Mahmudul Alam", "S. M. Mahbubur Rahman"]
@@ -19,8 +19,8 @@ authors = ["Mohammad Mahmudul Alam", "S. M. Mahbubur Rahman"]
 publication_types = ["2"]
 
 # Publication name and optional abbreviated version.
-publication = "In IEEE Transactions on Circuits and Systems for Video Technology [In Progress]"
-publication_short = "In IEEE"
+# publication = "In IEEE Transactions on Circuits and Systems for Video Technology [In Progress]"
+# publication_short = "In IEEE"
 
 # Abstract and optional shortened version.
 abstract = ""

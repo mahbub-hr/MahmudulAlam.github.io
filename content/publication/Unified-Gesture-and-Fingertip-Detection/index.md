@@ -1,5 +1,5 @@
 +++
-title = "Unified Convolutional Neural Network Approach of Gesture Recognition and Fingertip Detection"
+title = "Unified Approach of Hand Gesture Recognition and Fingertip Detection Using Convolutional Nueral Network"
 
 # Date first published.
 date = "2019-09-30"

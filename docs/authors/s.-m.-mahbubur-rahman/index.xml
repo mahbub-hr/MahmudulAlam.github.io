@@ -5,7 +5,7 @@
     <link>https://mahmudulalam.github.io/authors/s.-m.-mahbubur-rahman/</link>
       <atom:link href="https://mahmudulalam.github.io/authors/s.-m.-mahbubur-rahman/index.xml" rel="self" type="application/rss+xml" />
     <description>S. M. Mahbubur Rahman</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 01 Oct 2019 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 01 Nov 2019 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://mahmudulalam.github.io/img/icon-192.png</url>
       <title>S. M. Mahbubur Rahman</title>
@@ -13,15 +13,15 @@
     </image>
     
     <item>
-      <title>SOLO-Net: Interactive System for Virtual Environment by the Detection and Tracking of Fingertips</title>
+      <title>Affine Transformation of Virtual Object Using Unified CNN based Localization of Fingertips [In Progress]</title>
       <link>https://mahmudulalam.github.io/publication/solo-net/</link>
-      <pubDate>Tue, 01 Oct 2019 00:00:00 +0000</pubDate>
+      <pubDate>Fri, 01 Nov 2019 00:00:00 +0000</pubDate>
       <guid>https://mahmudulalam.github.io/publication/solo-net/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Unified Convolutional Neural Network Approach of Gesture Recognition and Fingertip Detection</title>
+      <title>Unified Approach of Hand Gesture Recognition and Fingertip Detection Using Convolutional Nueral Network</title>
       <link>https://mahmudulalam.github.io/publication/unified-gesture-and-fingertip-detection/</link>
       <pubDate>Mon, 30 Sep 2019 00:00:00 +0000</pubDate>
       <guid>https://mahmudulalam.github.io/publication/unified-gesture-and-fingertip-detection/</guid>
