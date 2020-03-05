@@ -1,5 +1,5 @@
 +++
-title = "Machine learning approach of automatic identification and counting of blood cells"
+title = "Machine Learning Approach of Automatic Identification and Counting of Blood Cells"
 
 # Date first published.
 date = "2019-05-03"
@@ -49,7 +49,7 @@ url_slides = ""
 url_video = ""
 url_poster = ""
 url_source = ""
-url_custom = [{name = "", url = ""}]
+
 
 # Custom links (optional).
 #   Uncomment line below to enable. For multiple links, use the form `[{...}, {...}, {...}]`.

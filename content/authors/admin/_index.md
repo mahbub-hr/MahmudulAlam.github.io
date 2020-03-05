@@ -53,9 +53,9 @@ social:
 
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.  
-# - icon: cv
-#   icon_pack: ai
-#   link: files/cv.pdf
+- icon: cv
+  icon_pack: ai
+  link: "./files/cv.pdf"
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""
@@ -67,4 +67,4 @@ user_groups:
 - Visitors
 ---
 
-Mohammad Mahmudul Alam has completed his BSc in Electrical and Electronic Engineering (EEE) from Bangladesh University of Engineering and Technology (BUET). His research interests include the theories and applications of machine learning in computer vision. During his undergraduate thesis, he conducted his research under the supervision of [Dr. S. M. Mahbubur Rahman](http://mahbubur.buet.ac.bd).
+Mohammad Mahmudul Alam has completed his BSc in Electrical and Electronic Engineering (EEE) from Bangladesh University of Engineering and Technology (BUET). His research interests include the theories and applications of machine learning in computer vision. During his undergraduate thesis, he conducted his research under the supervision of [Professor Dr. S. M. Mahbubur Rahman](http://mahbubur.buet.ac.bd).
