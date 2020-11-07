@@ -1,5 +1,5 @@
 +++
-title = "Affine Transformation of Virtual Object Using Unified CNN based Localization of Fingertips [In Progress]"
+title = "Affine Transformation of Virtual 3D Object Using 2D Localization of Fingertips [Accepted]"
 
 # Date first published.
 date = "2019-11-01"
@@ -19,7 +19,7 @@ authors = ["Mohammad Mahmudul Alam", "S. M. Mahbubur Rahman"]
 publication_types = ["2"]
 
 # Publication name and optional abbreviated version.
-# publication = "In IEEE Transactions on Circuits and Systems for Video Technology [In Progress]"
+# publication = "In Virtual Reality & Intelligent Hardware, Elsevier"
 # publication_short = "In IEEE"
 
 # Abstract and optional shortened version.
