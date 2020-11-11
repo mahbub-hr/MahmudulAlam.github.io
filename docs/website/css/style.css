@@ -11,7 +11,7 @@ html {
 /* Navbar */
 
 .navbar {
-    box-shadow: 0 0.125rem 0.25rem 0 rgba(0,0,0,.11);
+    box-shadow: 0 0.125rem 0.25rem 0 rgba(0, 0, 0, .11);
 }
 
 .navbar .navbar-brand {
@@ -20,7 +20,7 @@ html {
     font-weight: bolder;
 }
 
-.navbar .navbar-nav li{
+.navbar .navbar-nav li {
     font-size: 18px;
     font-weight: bold;
     line-height: 2;
@@ -42,7 +42,7 @@ a.nav-link:hover {
 /* Home */
 
 .col-lg-4, .col-lg-8 {
-    margin: auto; 
+    margin: auto;
     padding-left: 2%;
     padding-right: 2%;
 }
@@ -51,7 +51,7 @@ a.nav-link:hover {
     padding-top: 10%;
 }
 
-.avatar img{
+.avatar img {
     width: 250px;
     height: 250px;
     display: block;
@@ -68,14 +68,14 @@ a.nav-link:hover {
 }
 
 .title a {
-    font-size: 22px; 
-    display: block;  
+    font-size: 22px;
+    display: block;
     text-align: center;
 }
 
 .social {
     text-align: center;
-    margin-top: 15px; 
+    margin-top: 15px;
     margin-bottom: 15px;
 }
 
@@ -83,7 +83,7 @@ a.nav-link:hover {
     color: #2962ff;
     display: inline-block;
     margin: 5px;
-    font-size: 16px; 
+    font-size: 16px;
 }
 
 .social .fa-3x:hover,
@@ -91,7 +91,7 @@ a.nav-link:hover {
     color: lawngreen;
 }
 
-.bio h1 { 
+.bio h1 {
     font-size: 40px;
     font-weight: 400;
 }
@@ -103,16 +103,16 @@ a.nav-link:hover {
 
 h2 {
     font-size: 32px;
-    font-weight: 400;  
+    font-weight: 400;
 }
 
 ul.fa-ul li {
     font-size: 18px;
-    padding-top: 5px; 
+    padding-top: 5px;
 }
 
-ul.fa-ul li i.fa{
-    padding-right: 5px; 
+ul.fa-ul li i.fa {
+    padding-right: 5px;
 }
 
 div.education {
@@ -121,14 +121,14 @@ div.education {
 }
 
 p.degree {
-    font-size: 20px; 
-    font-weight: 400; 
-    margin-bottom: 8px; 
+    font-size: 20px;
+    font-weight: 400;
+    margin-bottom: 8px;
 }
 
 p.school {
     font-size: 18px;
-    margin: 0; 
+    margin: 0;
 }
 
 /* Publications */
@@ -163,11 +163,11 @@ p.school {
 .journal-conf-name {
     font-size: larger;
     font-weight: bold;
-    padding: 5px 5px 5px 0; 
-    margin: 5px 5px 5px 0; 
+    padding: 5px 5px 5px 0;
+    margin: 5px 5px 5px 0;
 }
 
-.pubs-buttons button{
+.pubs-buttons button {
     font-size: 14px;
     font-weight: 600;
     margin: 5px 5px 5px 0;
@@ -183,7 +183,7 @@ p.school {
 }
 
 .pubs-imgs {
-    display: block; 
+    display: block;
     margin: auto;
 }
 
@@ -207,12 +207,12 @@ p.school {
 
 .modal-footer {
     display: block;
-    margin: 0 auto; 
+    margin: 0 auto;
     padding-bottom: 2%;
 }
 
 .modal-footer button {
-    color: white; 
-    background-color: red; 
+    color: white;
+    background-color: red;
     border: none;
 }
