@@ -141,6 +141,7 @@ p.school {
 .paper h1 {
     font-size: 40px;
     font-weight: 400;
+    padding: 10px 0;
 }
 
 .paper-title {
@@ -215,4 +216,82 @@ p.school {
     color: white;
     background-color: red;
     border: none;
+}
+
+/* Projects */
+
+.paper h1 {
+    font-size: 40px;
+    font-weight: 400;
+    padding: 10px 0;
+}
+
+.project-title {
+    font-size: 30px;
+    font-weight: 400;
+    color: black;
+}
+
+.project-details {
+    color: rgba(0, 0, 0, .75);
+    padding: 5px 5px 5px 0;
+    margin: 5px 5px 5px 0;
+}
+
+.project-imgs {
+    display: block;
+    margin: auto;
+}
+
+.project-imgs img {
+    max-width: 90%;
+    height: auto;
+    object-fit: cover;
+    display: block;
+    margin: auto;
+}
+
+/* News */
+
+.paper h1 {
+    font-size: 40px;
+    font-weight: 400;
+    padding: 10px 0;
+}
+
+.carousel {
+    margin: 2% 1vw 2% 1vw;
+}
+
+.carousel-inner { 
+    background-image: url("../content/news/carousel.jpg");
+    background-repeat: no-repeat;
+    height: 40vw;
+    display: block; 
+    margin: auto;
+    text-align: center;
+    padding: 15% 10%; 
+}
+
+.news-headings .title {
+    font-size: 2.5vw; 
+    font-weight: 600; 
+    color: black;
+}
+
+.news-headings .date {
+    font-size: 2vw; 
+    font-weight: 600; 
+    color: black;
+}
+
+/* Contact */
+
+input.form-control {
+    font-size: 18px;
+}
+
+textarea.form-control {
+    font-size: 18px; 
+    height: 150px;
 }
